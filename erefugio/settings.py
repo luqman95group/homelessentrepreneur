@@ -26,11 +26,7 @@ SECRET_KEY = 'iponk)4x%=34b&wzt9y2j+oechhhz06_qpdg832ogokjra*9om'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-#	'10.1.19.253',
-#	'111.68.97.5',
-	'portal.workvibez.com',
         'localhost',
-        '169.60.176.131',
 ]
 
 
